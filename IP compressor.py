@@ -55,9 +55,9 @@ def main():
                 print(f"Decoded: {ip}")
             except Exception as e:
                 print(f"Shit hit the fan: {e}")
-        # fuck you        
+        # erm, what the sigma      
         else:
-            print("Dude... literally 2 options")
+            print("Literally 2 options")
         
         while True:
             again = input("Reset? (y/n)").strip().lower()
