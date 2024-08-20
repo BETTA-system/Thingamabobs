@@ -100,3 +100,4 @@ class Program
         }
     }
 }
+// dotnet run
